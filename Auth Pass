@@ -38,14 +38,15 @@
      "post_api": "/v1/json/update", "hash":"b20cfc95f2ae49768cbc"
     }
   ],
-  "shemulksa" : [
+  "Riman" : [
     {
-     "User":"shemulksa",
-     "app_name":"Fine Net Vpn",
+     "User":"Riman",
+     "app_name":"RAHI VPN",
      "status":"online",
-     "password":"closed",
-     "domain":"json.rktunnelvip.xyz",
-     "hash":"29b0d007e93fc7291ec2"
+     "password":"91943468",
+     "domain":"rahivipvpn.xyz",
+"post_api": "/v1/json/update",
+     "hash":"cb8020f5141bb98aca49"
     }
   ],
   "Prince" : [
