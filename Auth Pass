@@ -9,14 +9,15 @@
      "hash":"f53a6d464a44837c375e"
     }
   ],
-  "Sultan" : [
+  "AFRAN" : [
     {
-     "User":"Sultan",
-     "app_name":"AJ VIP VPN",
+     "User":"AFRAN",
+     "app_name":"MEARPY VPN",
      "status":"online",
-     "password":"726380",
-     "domain":"json.rktunnelvip.xyz",
-     "hash":"ceb4731c1bec804815fc"
+     "password":"AFRAN264343",
+     "domain":"mearpyvpn.xyz",
+"post_api": "/api/files/update",
+     "hash":"e3ed9bebd93cefad58b0"
     }
   ],
   "Naushad" : [
