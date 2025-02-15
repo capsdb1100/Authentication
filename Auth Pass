@@ -34,8 +34,10 @@
      "User":"Technore",
      "app_name":"Test VPN",
      "status":"online",
-     "password":"devtest", "domain":"sajibtunnelvipofficial.xyz",
-     "post_api": "/v1/json/update", "hash":"b20cfc95f2ae49768cbc"
+     "password":"devtest",
+"domain":"sajibtunnelvipofficial.xyz",
+     "post_api": "/v1/json/update",
+"hash":"b20cfc95f2ae49768cbc"
     }
   ],
   "Riman" : [
