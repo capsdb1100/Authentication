@@ -59,6 +59,7 @@
      "status":"online",
      "password":"Shahin@bd11",
      "domain":"viptunnels.xyz",
+"post_api": "/v1/json/update",
      "hash":"c72668e87b7eb043cb13"
     }
   ],
