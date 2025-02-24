@@ -81,7 +81,7 @@
      "status":"online",
      "password":"Ansari06843",
      "domain":"sameervippro.xyz",
-"post_api": "/api/master/update",
+"post_api": "/api/master/app?json",
      "hash":"ec5b4c23737cbd3e7f8e"
     }
   ],
