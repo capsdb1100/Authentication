@@ -20,14 +20,15 @@
      "hash":"e3ed9bebd93cefad58b0"
     }
   ],
-  "Naushad" : [
+  "Sharif" : [
     {
-     "User":"Naushad",
-     "app_name":"SAMEER VIP PRO",
+     "User":"Sharif",
+     "app_name":"JIYAM PLUS VPN",
      "status":"online",
-     "password":"Close",
-     "domain":"json.rktunnelvip.xyz",
-     "hash":"84f58dc068e67a600b2c"
+     "password":"mohin2555",
+     "domain":"mudassirtunnel.xyz",
+"post_api": "/v1/json/update",
+     "hash":"d9a2a1b15f0532c1ee9f"
     }
   ],
   "Technore" : [
