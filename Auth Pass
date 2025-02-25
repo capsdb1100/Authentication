@@ -86,14 +86,15 @@
      "hash":"ec5b4c23737cbd3e7f8e"
     }
   ],
-  "Nazmulvip" : [
+  "Aminbhai" : [
     {
-     "User":"Nazmulvip",
-     "app_name":"Nazmul vip",
+     "User":"Aminbhai",
+     "app_name":"POPULAR VIP",
      "status":"online",
-     "password":"closed",
-     "domain":"json.rktunnelvip.xyz",
-     "hash":"f1f632a5b9d8e5efdb88"
+     "password":"1122331",
+     "domain":"signalvpnpro.xyz",
+"post_api": "/v1/json/update",
+     "hash":"934d107d12d6a196360f"
     }
   ],
   "Shahin2" : [
