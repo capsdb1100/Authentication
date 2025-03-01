@@ -10,6 +10,28 @@
 "hash":"b20cfc95f2ae49768cbc"
     }
   ],
+"Didar" : [
+    {
+     "User":"Didar",
+     "app_name":"DR DIDAR NET VIP",
+     "status":"online",
+     "password":"483762",
+"domain":"sajibtunnelvipofficial.xyz",
+     "post_api": "/v1/json/update",
+"hash":"2d9bf2ea9cfecdad4f91"
+    }
+  ],
+"Didar2" : [
+    {
+     "User":"Didar2",
+     "app_name":"DR TUNNEL VIP",
+     "status":"online",
+     "password":"48376200",
+"domain":"sajibtunnelvipofficial.xyz",
+     "post_api": "/v1/json/update",
+"hash":"f7ed554ed645cb5ee0df"
+    }
+  ],
   "AFRAN" : [
     {
      "User":"AFRAN",
