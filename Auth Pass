@@ -10,15 +10,15 @@
 "hash":"b20cfc95f2ae49768cbc"
     }
   ],
-"SHEMUL" : [
+"SHEMULclouse" : [
     {
      "User":"SHEMUL",
      "app_name":"AN TUNNEL VPN",
      "status":"online",
-     "password":"Finenet63795",
+     "password":"Finenet63795closeapps",
 "domain":"ansumanvpn.xyz",
      "post_api": "/v1/json/update",
-"hash":"fe6313f8538b1ce7f3bb"
+"hash":"fe6313f8538b1ce7f3bbclouse"
     }
   ],
 "Didar" : [
