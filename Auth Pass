@@ -65,6 +65,18 @@
      "hash":"e3ed9bebd93cefad58b0"
     }
   ],
+"Ekbal" : [
+    {
+     "User":"Ekbal",
+     "app_name":"ALORON VIP PLUS",
+     "status":"online",
+     "password":"Admin@255646",
+     "domain":"ayannetvpn.pro",
+"post_api": "/api/files/update",
+"get_api": "/api/master/app?json=8428544ed43ffa752d0d",
+     "hash":"8428544ed43ffa752d0d"
+    }
+  ],
   "Sharif" : [
     {
      "User":"Sharif",
