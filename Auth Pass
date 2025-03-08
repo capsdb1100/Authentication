@@ -28,7 +28,7 @@
      "status":"online",
      "password":"1999imran",
 "domain":"ikingvipvpn.xyz",
-     "post_api": "/v1/json/update",
+     "post_api": "/kobe/json/update",
 "hash":"9621603bce0d6d44679f"
     }
   ],
