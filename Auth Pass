@@ -131,6 +131,18 @@
      "hash":"cb8020f5141bb98aca49"
     }
   ],
+"ANWAR" : [
+    {
+     "User":"ANWAR",
+     "app_name":"ANWAR VPN",
+     "status":"online",
+     "password":"Riman123",
+"domain":"rahivipvpn.xyz",
+     "post_api": "/v1/json/update",
+     "get_api": "/json/5d6722305afa940f2c08.json",
+"hash":"5d6722305afa940f2c08"
+    }
+  ],
   "Shahin" : [
     {
      "User":"Shahin",
