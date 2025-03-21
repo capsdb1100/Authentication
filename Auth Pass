@@ -139,8 +139,8 @@
      "password":"Riman123",
 "domain":"rahivipvpn.xyz",
      "post_api": "/v1/json/update",
-     "get_api": "/json/5d6722305afa940f2c08.json",
-"hash":"5d6722305afa940f2c08"
+     "get_api": "/api/app?json=ec919db4b95ff76028e7",
+"hash":"ec919db4b95ff76028e7"
     }
   ],
   "Shahin" : [
