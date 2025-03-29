@@ -127,7 +127,7 @@
      "status":"online",
      "password":"voip@#098",
 "domain":"mazasifsystem.xyz",
-     "post_api": "/api/update",
+     "post_api": "/updater/Apna",
      "get_api": "/updater/af320668762d74d16cca862ad81eed",
 "hash":"af320668762d74d16cca862ad81eed"
     }
