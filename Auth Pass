@@ -32,6 +32,17 @@
 "hash":"381e4a1d2e95857403b3"
     }
   ],
+"Sajib3" : [
+    {
+     "User":"Sajib3",
+     "app_name":"Sa King Power Vip",
+     "status":"online",
+     "password":"123456",
+"domain":"sajibtunnelvipofficial.xyz",
+     "post_api": "/v1/json/update",
+"hash":"8de07dda7ea664de781a"
+    }
+  ],
 "imran1999" : [
     {
      "User":"imran1999",
@@ -127,7 +138,10 @@
      "status":"online",
      "password":"voip@#098",
 "domain":"mazasifsystem.xyz",
-     "post_api": "/api/edit.php",
+     "post_api": "/api/update.php):
+file=af320668762d74d16cca862ad81eed
+name=Apna
+content=",
      "get_api": "/updater/af320668762d74d16cca862ad81eed",
 "hash":"af320668762d74d16cca862ad81eed"
     }
