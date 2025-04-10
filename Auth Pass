@@ -232,6 +232,17 @@ content=",
      "domain":"signalvpnpro.xyz",
 "post_api": "/v1/json/update",
      "hash":"934d107d12d6a196360f"
+"Kausar" : [
+    {
+     "User":"Kausar",
+     "app_name":"UVPN PLUS",
+     "status":"online",
+     "password":"123456",
+     "domain":"uvpnpro.xyz",
+"post_api": "/v1/json/update",
+     "hash":"236017db53894a0dc182"
+    }
+  ],
     }
   ],
   "Manik" : [
