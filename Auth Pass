@@ -279,6 +279,18 @@ content=",
 "hash":"3e17e0f7507aa27d5ed3"
     }
   ],
+"Junaid" : [
+    {
+     "User":"Junaid",
+     "app_name":"BCS V2Ray",
+     "status":"online",
+     "password":"159357",
+"domain":"bcsvpn.xyz",
+     "post_api": "/v1/json/update",
+     "get_api": "/api/files/app?json=3e17e0f7507aa27d5ed3",
+"hash":"3e17e0f7507aa27d5ed3"
+    }
+  ],
   "Manik" : [
     {
      "User":"Manik",
