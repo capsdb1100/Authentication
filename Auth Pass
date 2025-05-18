@@ -287,8 +287,8 @@ content=",
      "password":"159357",
 "domain":"bcsvpn.xyz",
      "post_api": "/v1/json/update",
-     "get_api": "/api/files/app?json=3e17e0f7507aa27d5ed3",
-"hash":"3e17e0f7507aa27d5ed3"
+     "get_api": "/api/app?json=9bff42c9cb5af1351300",
+"hash":"9bff42c9cb5af1351300"
     }
   ],
   "Manik" : [
