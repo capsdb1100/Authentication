@@ -347,6 +347,17 @@ content=",
      "hash":"99abd8975c535ebcf5da"
     }
   ],
+"Muaz" : [
+    {
+     "User":"Muaz",
+     "app_name":"Shaheb VIP VPN",
+     "status":"online",
+     "password":"muaz@224admin",
+     "domain":"muazhossenintaz.xyz",
+"post_api": "/v1/json/update",
+     "hash":"f8219b7b4ee65cfc38e0"
+    }
+  ],
   "Manik" : [
     {
      "User":"Manik",
