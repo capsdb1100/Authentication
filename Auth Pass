@@ -380,6 +380,18 @@ content=",
      "hash":"6fc2faed79c8737df388"
     }
   ],
+"Shorub" : [
+    {
+     "User":"Shorub",
+     "app_name":"AS SPECIAL VPN",
+     "status":"online",
+     "password":"nuha@123",
+"domain":"astechnologynet.xyz",
+     "post_api": "/api/edit.php",
+     "get_api": "/api/master/app?json=7aa00f821bb35b774852",
+"hash":"7aa00f821bb35b774852"
+    }
+  ],
   "Manik" : [
     {
      "User":"Manik",
