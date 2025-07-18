@@ -392,6 +392,18 @@ content=",
 "hash":"7aa00f821bb35b774852"
     }
   ],
+"SHAKIL" : [
+    {
+     "User":"SHAKIL",
+     "app_name":"SK SUPER POWER",
+     "status":"online",
+     "password":"Sk420",
+"domain":"adnanvpn.xyz",
+     "post_api": "/api/edit.php",
+     "get_api": "/uploads/json/a6ea0ccd697eaaaa7ea3.json",
+"hash":"a6ea0ccd697eaaaa7ea3"
+    }
+  ],
   "Manik" : [
     {
      "User":"Manik",
