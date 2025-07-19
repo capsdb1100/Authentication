@@ -400,8 +400,8 @@ content=",
      "password":"Sk420",
 "domain":"adnanvpn.xyz",
      "post_api": "/api/edit.php",
-     "get_api": "/uploads/json/4b953f81d1d7611ac8d4.json",
-"hash":"4b953f81d1d7611ac8d4"
+     "get_api": "/uploads/json/a6ea0ccd697eaaaa7ea3.json",
+"hash":"a6ea0ccd697eaaaa7ea3"
     }
   ],
 "ADNAN" : [
@@ -412,8 +412,8 @@ content=",
      "password":"Admin123",
 "domain":"shakilkingvpn.xyz",
      "post_api": "/api/edit.php",
-     "get_api": "/uploads/json/ae4e8c94b73560e92907.json",
-"hash":"ae4e8c94b73560e92907"
+     "get_api": "/uploads/json/4b953f81d1d7611ac8d4.json",
+"hash":"4b953f81d1d7611ac8d4"
     }
   ],
   "Manik" : [
