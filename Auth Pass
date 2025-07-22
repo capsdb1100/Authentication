@@ -398,10 +398,10 @@ content=",
      "app_name":"SK SUPER POWER",
      "status":"online",
      "password":"Sk420",
-"domain":"adnanvpn.xyz",
-     "post_api": "/api/edit.php",
-     "get_api": "/uploads/json/a6ea0ccd697eaaaa7ea3.json",
-"hash":"a6ea0ccd697eaaaa7ea3"
+"domain":"sksuperpower.xyz",
+     "post_api": "/v1/json/update",
+     "get_api": "/api/app?json=e2597181682b01f71932",
+"hash":"e2597181682b01f71932"
     }
   ],
 "ADNAN" : [
