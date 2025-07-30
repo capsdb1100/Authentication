@@ -105,6 +105,7 @@
      "status":"online",
      "password":"Admin@255646",
      "domain":"ayannetvpn.xyz",
+"post_api": "/api/edit.php",
      "hash":"8428544ed43ffa752d0d"
     }
   ],
