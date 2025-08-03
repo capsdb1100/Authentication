@@ -417,6 +417,18 @@ content=",
 "hash":"7d3d9bfb04943ce4a9b3"
     }
   ],
+"Ferdous" : [
+    {
+     "User":"Ferdous",
+     "app_name":"BOLD FAST VPN",
+     "status":"online",
+     "password":"020185",
+"domain":"freedom24.xyz",
+     "post_api": "/api/edit.php",
+     "get_api": "/api/master/app?json=46fca91be35c34b4de5b",
+"hash":"46fca91be35c34b4de5b"
+    }
+  ],
   "Manik" : [
     {
      "User":"Manik",
