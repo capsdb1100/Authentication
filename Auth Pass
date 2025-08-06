@@ -440,6 +440,18 @@ content=",
      "hash":"c39fafbf9ec947bdfdd5"
     }
   ],
+"Arif" : [
+    {
+     "User":"Arif",
+     "app_name":"A FAST ONE",
+     "status":"online",
+     "password":"21July2020",
+"domain":"arishfaonline.info",
+     "post_api": "/api/edit.php",
+     "get_api": "/api/files/app?json=fb77693ce3778212633f",
+"hash":"fb77693ce3778212633f"
+    }
+  ],
   "Manik" : [
     {
      "User":"Manik",
