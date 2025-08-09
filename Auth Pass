@@ -199,8 +199,10 @@ content=",
      "app_name":"AS PROXY PLUS",
      "status":"online",
      "password":"123456",
-     "domain":"arishfavipnet.xyz",
-     "hash":"36fe9276fb6cf0093821"
+     "domain":"arishfaonline.info",
+"post_api": "/api/edit.php",
+     "get_api": "/api/files/app?json=4cf9bf48249a72a811e3",
+     "hash":"4cf9bf48249a72a811e3"
     }
   ],
 "Ashraf" : [
