@@ -211,8 +211,10 @@ content=",
      "app_name":"Maysa Plus Fast",
      "status":"online",
      "password":"111788",
-     "domain":"mollha5g.xyz",
-     "hash":"df7f4565daa4ec5377e3"
+     "domain":"zunayetvip.xyz",
+"post_api": "/api/edit.php",
+     "get_api": "/api/master/app?json=81cb45d3a75883ca4cc7",
+     "hash":"81cb45d3a75883ca4cc7"
     }
   ],
   "Naushad" : [
