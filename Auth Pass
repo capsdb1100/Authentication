@@ -455,6 +455,17 @@ content=",
      "hash":"1a3018f6f0b2bff030fe"
     }
   ],
+"india" : [
+    {
+     "User":"india",
+     "app_name":"WASIFA V2RAY",
+     "status":"online",
+     "password":"wasifa156",
+     "domain":"wasifaqueenvpn.xyz",
+"post_api": "/v1/json/update",
+     "hash":"271ef69263754cffec7b"
+    }
+  ],
 "Arif" : [
     {
      "User":"Arif",
