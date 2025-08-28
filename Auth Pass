@@ -451,7 +451,7 @@ content=",
      "status":"online",
      "password":"978070",
      "domain":"kohinurvipvpn.xyz",
-"post_api": "/kobe/json/update",
+"post_api": "/v1/json/update",
      "hash":"1a3018f6f0b2bff030fe"
     }
   ],
