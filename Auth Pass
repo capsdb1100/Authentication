@@ -478,6 +478,18 @@ content=",
 "hash":"fb77693ce3778212633f"
     }
   ],
+"Roni" : [
+    {
+     "User":"Roni",
+     "app_name":"RJ Tunnel Fast Net",
+     "status":"online",
+     "password":"roni@11664",
+"domain":"rhtunnelv2ray.xyz",
+     "post_api": "/api/edit.php",
+     "get_api": "/api/master/app?json=7cfec0dba86f4e70f24e",
+"hash":"7cfec0dba86f4e70f24e"
+    }
+  ],
   "Manik" : [
     {
      "User":"Manik",
