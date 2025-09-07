@@ -391,7 +391,7 @@ content=",
      "app_name":"AS SPECIAL VPN",
      "status":"online",
      "password":"nuha@123",
-"domain":"asspchialv2ray.xyz",
+     "domain":"asspchialv2ray.xyz",
      "post_api": "/api/edit.php",
      "get_api": "/uploads/json/eb23ba4f680f73a6ecaa.json",
 "hash":"eb23ba4f680f73a6ecaa"
