@@ -391,7 +391,7 @@ content=",
      "app_name":"AS SPECIAL VPN",
      "status":"online",
      "password":"nuha@123",
-"domain":"astechnologynet.xyz",
+"domain":"asspchialv2ray.xyz",
      "post_api": "/api/edit.php",
      "get_api": "/api/master/app?json=7aa00f821bb35b774852",
 "hash":"7aa00f821bb35b774852"
@@ -405,8 +405,8 @@ content=",
      "password":"Sk420",
 "domain":"sksuperpower.xyz",
      "post_api": "/v1/json/update",
-     "get_api": "/api/app?json=e2597181682b01f71932",
-"hash":"e2597181682b01f71932"
+     "get_api": "/uploads/json/eb23ba4f680f73a6ecaa.json",
+"hash":"eb23ba4f680f73a6ecaa"
     }
   ],
 "ADNAN" : [
