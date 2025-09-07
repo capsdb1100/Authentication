@@ -458,12 +458,13 @@ content=",
 "Aynul" : [
     {
      "User":"Aynul",
-     "app_name":"WASIFA V2RAY",
+     "app_name":"SK AYNUL",
      "status":"online",
      "password":"wasifa591",
-     "domain":"wasifaqueenvpn.xyz",
-"post_api": "/v1/json/update",
-     "hash":"271ef69263754cffec7b"
+     "domain":"aynulvipvpn.xyz",
+"post_api": "/api/edit.php",
+     "get_api": "/uploads/json/4ec4022faa82c8762a03.json",
+"hash":"4ec4022faa82c8762a03"
     }
   ],
 "Arif" : [
