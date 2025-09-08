@@ -491,12 +491,12 @@ content=",
 "hash":"7cfec0dba86f4e70f24e"
     }
   ],
-"KAWSARMONDAL" : [
+"Rasel" : [
     {
-     "User":"KAWSARMONDAL",
-     "app_name":"KAWSAR NET VPN",
+     "User":"Rasel",
+     "app_name":"Rasel VPN Master",
      "status":"online",
-     "password":"KAWSAR123456",
+     "password":"Rasel123456",
 "domain":"kawsarnetvpn.xyz",
      "post_api": "/api/edit.php",
      "get_api": "/uploads/json/fd17209e467ff7c81a67.json",
