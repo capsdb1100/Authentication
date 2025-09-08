@@ -461,10 +461,10 @@ content=",
      "app_name":"SK AYNUL",
      "status":"online",
      "password":"wasifa591",
-     "domain":"aynulvipvpn.xyz",
-"post_api": "/api/edit.php",
-     "get_api": "/uploads/json/4ec4022faa82c8762a03.json",
-"hash":"4ec4022faa82c8762a03"
+     "domain":"assamvip.xyz",
+"post_api": "/v1/json/update",
+     "get_api": "/api/app?json=180fb4598eb6e585630e",
+"hash":"180fb4598eb6e585630e"
     }
   ],
 "Arif" : [
