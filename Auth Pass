@@ -526,6 +526,18 @@ content=",
 "hash":"c297ee8b09df4b667d2a"
     }
   ],
+"Shanto" : [
+    {
+     "User":"Shanto",
+     "app_name":"SK SHANTO FAST NET",
+     "status":"online",
+     "password":"Shanto123456",
+"domain":"skshantofastnet.xyz",
+     "post_api": "/v1/json/update",
+     "get_api": "/api/app?json=c297ee8b09df4b667d2a",
+"hash":"c297ee8b09df4b667d2a"
+    }
+  ],
   "Manik" : [
     {
      "User":"Manik",
