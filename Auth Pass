@@ -534,8 +534,8 @@ content=",
      "password":"654321",
 "domain":"skshantofastnet.xyz",
      "post_api": "/v1/json/update",
-     "get_api": "/api/app?json=c297ee8b09df4b667d2a",
-"hash":"c297ee8b09df4b667d2a"
+     "get_api": "/api/app?json=e1c353ae84c6adc06070",
+"hash":"e1c353ae84c6adc06070"
     }
   ],
   "Manik" : [
