@@ -562,6 +562,18 @@ content=",
 "hash":"31973e37a8f21d66cf76"
     }
   ],
+"AliNaj321" : [
+    {
+     "User":"AliNaj321",
+     "app_name":"Raja Boss King",
+     "status":"online",
+     "password":"alinaj2025@",
+"domain":"rajabossvpn.xyz",
+     "post_api": "/api/edit.php",
+     "get_api": "/api/app?json=1898d66f9d0134bac1f3",
+"hash":"1898d66f9d0134bac1f3"
+    }
+  ],
   "Manik" : [
     {
      "User":"Manik",
