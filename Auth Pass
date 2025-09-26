@@ -556,7 +556,7 @@ content=",
      "app_name":"Hypo Tunnel",
      "status":"online",
      "password":"Rasel321",
-"domain":"85.215.46.83/nextvipvpn.xyz",
+"domain":"nextvipvpn.xyz",
      "post_api": "/kobe/json/update",
      "get_api": "/api/app?json=31973e37a8f21d66cf76",
 "hash":"31973e37a8f21d66cf76"
