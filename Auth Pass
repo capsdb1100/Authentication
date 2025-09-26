@@ -538,6 +538,18 @@ content=",
 "hash":"e1c353ae84c6adc06070"
     }
   ],
+"Rabbi252" : [
+    {
+     "User":"Rabbi252",
+     "app_name":"Tanzina V2Ray",
+     "status":"online",
+     "password":"Habibur",
+"domain":"tanzina.xyz",
+     "post_api": "/api/edit.php",
+     "get_api": "/api/master/app?json=565fb250f15a413d4f9e",
+"hash":"565fb250f15a413d4f9e"
+    }
+  ],
   "Manik" : [
     {
      "User":"Manik",
