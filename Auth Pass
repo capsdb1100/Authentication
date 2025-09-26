@@ -574,6 +574,18 @@ content=",
 "hash":"1898d66f9d0134bac1f3"
     }
   ],
+"ALOM" : [
+    {
+     "User":"ALOM",
+     "app_name":"CHAND VIP SSH",
+     "status":"online",
+     "password":"Alom2025",
+"domain":"whatalomvipnet.xyz",
+     "post_api": "/v1/json/update",
+     "get_api": "/api/app?json=d95d683288f20e413cc0",
+"hash":"d95d683288f20e413cc0"
+    }
+  ],
   "Manik" : [
     {
      "User":"Manik",
