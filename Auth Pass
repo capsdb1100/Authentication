@@ -557,7 +557,7 @@ content=",
      "status":"online",
      "password":"Rasel321",
 "domain":"nextvipvpn.xyz",
-     "post_api": "/kobe/json/update",
+     "post_api": "/v1/json/update",
      "get_api": "/api/app?json=31973e37a8f21d66cf76",
 "hash":"31973e37a8f21d66cf76"
     }
