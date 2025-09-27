@@ -622,6 +622,18 @@ content=",
 "hash":"3de752cb6d9721d36661"
     }
   ],
+"RJ" : [
+    {
+     "User":"RJ",
+     "app_name":"RJ KING VPN",
+     "status":"online",
+     "password":"RJ123456",
+"domain":"rj5ginternet.xyz",
+     "post_api": "/api/edit.php",
+     "get_api": "/api/files/app?json=f605ed667e833354668a",
+"hash":"f605ed667e833354668a"
+    }
+  ],
   "Manik" : [
     {
      "User":"Manik",
