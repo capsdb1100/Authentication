@@ -634,6 +634,18 @@ content=",
 "hash":"f605ed667e833354668a"
     }
   ],
+"Riki" : [
+    {
+     "User":"Riki",
+     "app_name":"Riki Tunnel Plus",
+     "status":"online",
+     "password":"riki321",
+"domain":"ashavpn.xyz",
+     "post_api": "/v1/json/update",
+     "get_api": "/api/app?json=5f359b38bf3680eb4a00",
+"hash":"5f359b38bf3680eb4a00"
+    }
+  ],
   "Manik" : [
     {
      "User":"Manik",
