@@ -742,6 +742,18 @@ content=",
 "hash":"7f59ac7509a0b4d9abc1"
     }
   ],
+"Khalek" : [
+    {
+     "User":"Khalek",
+     "app_name":"A TEL",
+     "status":"online",
+     "password":"Khalek123456",
+"domain":"5gnetvpn.xyz",
+     "post_api": "/api/edit.php",
+     "get_api": "/api/files/app?json=4d1039382d9302a17bd9",
+"hash":"4d1039382d9302a17bd9"
+    }
+  ],
   "Manik" : [
     {
      "User":"Manik",
