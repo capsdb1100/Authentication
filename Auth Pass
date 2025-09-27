@@ -598,6 +598,18 @@ content=",
 "hash":"92d98aafe2eb14e5cca8"
     }
   ],
+"Smadmin" : [
+    {
+     "User":"Smadmin",
+     "app_name":SM NEW",
+     "status":"online",
+     "password":"smnew321",
+"domain":"smv2ray.xyz",
+     "post_api": "/v1/json/update",
+     "get_api": "/api/app?json=98641ebabbd34eddb771",
+"hash":"98641ebabbd34eddb771"
+    }
+  ],
   "Manik" : [
     {
      "User":"Manik",
