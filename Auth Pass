@@ -658,6 +658,18 @@ content=",
 "hash":"f619c4dd2576d4513779"
     }
   ],
+"Rafi321" : [
+    {
+     "User":"Rafi321",
+     "app_name":"MG PROXY VPN",
+     "status":"online",
+     "password":"Rafi12345",
+"domain":"mgtunnel.xyz",
+     "post_api": "/v1/json/update",
+     "get_api": "/api/app?json=e971c7c67fdff125584c",
+"hash":"e971c7c67fdff125584c"
+    }
+  ],
   "Manik" : [
     {
      "User":"Manik",
