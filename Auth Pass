@@ -682,6 +682,18 @@ content=",
 "hash":"26f7deb9ed92fe8ce3af"
     }
   ],
+"PtPlus" : [
+    {
+     "User":"PtPlus",
+     "app_name":"PT PLUS TRUE VPN",
+     "status":"online",
+     "password":"PtPlus2025",
+"domain":"ptplus.xyz",
+     "post_api": "/v1/json/update",
+     "get_api": "/api/app?json=8ddbf741abd6768be6c9",
+"hash":"8ddbf741abd6768be6c9"
+    }
+  ],
   "Manik" : [
     {
      "User":"Manik",
