@@ -586,6 +586,18 @@ content=",
 "hash":"d95d683288f20e413cc0"
     }
   ],
+"Jahidul" : [
+    {
+     "User":"Jahidul",
+     "app_name":"GEAR NET VPN",
+     "status":"online",
+     "password":"Jahidul321",
+"domain":"reofast.xyz",
+     "post_api": "/v1/json/update",
+     "get_api": "/api/app?json=92d98aafe2eb14e5cca8",
+"hash":"92d98aafe2eb14e5cca8"
+    }
+  ],
   "Manik" : [
     {
      "User":"Manik",
