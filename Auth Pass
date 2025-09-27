@@ -601,7 +601,7 @@ content=",
 "Smadmin" : [
     {
      "User":"Smadmin",
-     "app_name":SM NEW",
+     "app_name":"SM NEW",
      "status":"online",
      "password":"smnew321",
 "domain":"smv2ray.xyz",
