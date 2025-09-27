@@ -706,6 +706,18 @@ content=",
 "hash":"2fb013a9b24fc6d68729"
     }
   ],
+"Sakayet" : [
+    {
+     "User":"Sakayet",
+     "app_name":"S TEL PROXY",
+     "status":"online",
+     "password":"Sakayet2025",
+"domain":"sakayettelvpn.xyz",
+     "post_api": "/v1/json/update",
+     "get_api": "/api/app?json=2c4034510503872ef0a5",
+"hash":"2c4034510503872ef0a5"
+    }
+  ],
   "Manik" : [
     {
      "User":"Manik",
