@@ -780,6 +780,18 @@ content=",
 "hash":"fe69f8eb5c92fc523483"
     }
   ],
+"ShuvoBarta" : [
+    {
+     "User":"ShuvoBarta",
+     "app_name":"VipSpeed2",
+     "status":"online",
+     "password":"Shuvo2653",
+"domain":"sbnetvpn.net",
+     "post_api": "/v1/json/update",
+     "get_api": "/api/app?json=57580851fbaf29952fbe",
+"hash":"57580851fbaf29952fbe"
+    }
+  ],
   "Manik" : [
     {
      "User":"Manik",
