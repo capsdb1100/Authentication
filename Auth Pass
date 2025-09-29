@@ -804,6 +804,30 @@ content=",
 "hash":"a869d71d601a4b58f75b"
     }
   ],
+"Nazmul" : [
+    {
+     "User":"Nazmul",
+     "app_name":"NAZMUL UDP",
+     "status":"online",
+     "password":"Nazmul4636",
+"domain":"nazmulvippro.xyz",
+     "post_api": "/v1/json/update",
+     "get_api": "/api/app?json=d1d9efecb48d0dc3eaa1",
+"hash":"d1d9efecb48d0dc3eaa1"
+    }
+  ],
+"Nazmul2" : [
+    {
+     "User":"Nazmul2",
+     "app_name":"NAZMUL VIP",
+     "status":"online",
+     "password":"Nazmul265224",
+"domain":"nazmulvippro.xyz",
+     "post_api": "/v1/json/update",
+     "get_api": "/api/app?json=696bb92ac9cf87efd154",
+"hash":"696bb92ac9cf87efd154"
+    }
+  ],
   "Manik" : [
     {
      "User":"Manik",
