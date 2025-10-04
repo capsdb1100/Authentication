@@ -888,6 +888,18 @@ content=",
 "hash":"389912b1436e54c25395"
     }
   ],
+"KAWSAR2762" : [
+    {
+     "User":"KAWSAR2762",
+     "app_name":"KAWSAR FAST NET VPN",
+     "status":"online",
+     "password":"KAWSAR73262",
+"domain":"aavipnetvpn.xyz",
+     "post_api": "/v1/json/update",
+     "get_api": "/api/app?json=3945489b0b90d33b426d",
+"hash":"3945489b0b90d33b426d"
+    }
+  ],
   "Manik" : [
     {
      "User":"Manik",
