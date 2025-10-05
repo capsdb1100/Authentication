@@ -888,6 +888,30 @@ content=",
 "hash":"3945489b0b90d33b426d"
     }
   ],
+"Kausar0726" : [
+    {
+     "User":"Kausar0726",
+     "app_name":"NS TUNNEL VPN",
+     "status":"online",
+     "password":"Kawsar63017",
+"domain":"frsvpn.xyz",
+     "post_api": "/v1/json/update",
+     "get_api": "/api/app?json=bac5f09067a8d12763ab",
+"hash":"bac5f09067a8d12763ab"
+    }
+  ],
+"Kausar732514" : [
+    {
+     "User":"Kausar732514",
+     "app_name":"FRS TUNNEL",
+     "status":"online",
+     "password":"Kawsar0026243",
+"domain":"frsvpn.xyz",
+     "post_api": "/v1/json/update",
+     "get_api": "/api/app?json=54b2ca14135206671c2d",
+"hash":"54b2ca14135206671c2d"
+    }
+  ],
   "Manik" : [
     {
      "User":"Manik",
