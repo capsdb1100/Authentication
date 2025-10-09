@@ -912,6 +912,18 @@ content=",
 "hash":"54b2ca14135206671c2d"
     }
   ],
+"Alim" : [
+    {
+     "User":"Alim",
+     "app_name":"SA SUPER NET",
+     "status":"online",
+     "password":"SaSuper2580",
+"domain":"tanzinavpn.xyz",
+     "post_api": "/v1/json/update",
+     "get_api": "/api/app?json=c1eec887877095532798",
+"hash":"c1eec887877095532798"
+    }
+  ],
   "Manik" : [
     {
      "User":"Manik",
