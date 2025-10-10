@@ -93,9 +93,10 @@
      "app_name":"MEARPY VPN",
      "status":"online",
      "password":"AFRAN264343",
-     "domain":"mearpyvpn.xyz",
-"post_api": "/api/files/update",
-     "hash":"e3ed9bebd93cefad58b0"
+     "domain":"forexvn.xyz",
+"post_api": "/api/edit.php",
+"get_api": "/api/files/app?json=0ca3b29e168a12a547e6",
+     "hash":"0ca3b29e168a12a547e6"
     }
   ],
 "Ekbal" : [
