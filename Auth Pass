@@ -925,6 +925,18 @@ content=",
 "hash":"c1eec887877095532798"
     }
   ],
+"Aynul828" : [
+    {
+     "User":"Aynul828",
+     "app_name":"SK ASSAM V2REY 5G",
+     "status":"online",
+     "password":"assam976",
+"domain":"assamvip.xyz",
+     "post_api": "/v1/json/update",
+     "get_api": "/api/app?json=f395bb627a7f63c386bc",
+"hash":"f395bb627a7f63c386bc"
+    }
+  ],
   "Manik" : [
     {
      "User":"Manik",
