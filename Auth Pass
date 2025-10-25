@@ -985,6 +985,18 @@ content=",
 "hash":"2ba6fb35553e2d267ae2"
     }
   ],
+"Sakayet2" : [
+    {
+     "User":"Sakayet2",
+     "app_name":"Sakayet Tel V2",
+     "status":"online",
+     "password":"Sakayet247",
+"domain":"tanzina.xyz",
+     "post_api": "/api/edit.php",
+     "get_api": "/api/master/app?json=346ae1bdfbacb3b8b76e",
+"hash":"346ae1bdfbacb3b8b76e"
+    }
+  ],
   "Manik" : [
     {
      "User":"Manik",
