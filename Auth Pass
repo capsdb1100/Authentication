@@ -712,13 +712,13 @@ content=",
 "Khalek" : [
     {
      "User":"Khalek",
-     "app_name":"MOON TEL",
+     "app_name":"MOON TEL V2RAY",
      "status":"online",
      "password":"Khalek123456",
 "domain":"moontelvpn.net",
      "post_api": "/api/edit.php",
-     "get_api": "/api/files/app?json=d772c405a690b3f965db",
-"hash":"d772c405a690b3f965db"
+     "get_api": "/api/files/app?json=5dcb6da6876a34a2cacb",
+"hash":"5dcb6da6876a34a2cacb"
     }
   ],
 "Hassan7536" : [
