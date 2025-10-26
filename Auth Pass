@@ -979,10 +979,10 @@ content=",
      "app_name":"TAR Cera",
      "status":"online",
      "password":"9258152",
-"domain":"histornvpn.xyz",
+"domain":"jsdigitalmax.com",
      "post_api": "/api/edit.php",
-     "get_api": "/uploads/json/2ba6fb35553e2d267ae2.json",
-"hash":"2ba6fb35553e2d267ae2"
+     "get_api": "/api/files/app?json=da2758ce204aa598c352",
+"hash":"da2758ce204aa598c352"
     }
   ],
 "Sakayet2" : [
