@@ -1021,6 +1021,18 @@ content=",
 "hash":"fa881a7a0de14f0e852f"
     }
   ],
+"Shakil25" : [
+    {
+     "User":"Shakil25",
+     "app_name":"BADSHA 5G FAST",
+     "status":"online",
+     "password":"Shakil247",
+"domain":"badshavipvpn.xyz",
+     "post_api": "/api/edit.php",
+     "get_api": "/api/master/app?json=3750b0eb1236b1f43f87",
+"hash":"3750b0eb1236b1f43f87"
+    }
+  ],
   "Manik" : [
     {
      "User":"Manik",
