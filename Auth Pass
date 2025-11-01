@@ -431,7 +431,8 @@ content=",
      "password":"mountain@ovpn",
      "domain":"mountainv2ray.xyz",
 "post_api": "/v1/json/update",
-     "hash":"c39fafbf9ec947bdfdd5"
+"get_api": "/api/app?json=37b530fb45095398b77c",
+     "hash":"37b530fb45095398b77c"
     }
   ],
 "AliNaj" : [
