@@ -1058,6 +1058,18 @@ content=",
 "hash":"e326f02f313413ddb5fe"
     }
   ],
+"Sumon525" : [
+    {
+     "User":"Sumon525",
+     "app_name":"Power Net 5G",
+     "status":"online",
+     "password":"Sumon547",
+"domain":"powernetvpn.xyz",
+     "post_api": "/api/edit.php",
+     "get_api": "/uploads/json/968b28fe7732718a7790.json",
+"hash":"968b28fe7732718a7790"
+    }
+  ],
   "Manik" : [
     {
      "User":"Manik",
