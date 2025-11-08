@@ -154,10 +154,10 @@ content=",
      "app_name":"Pen Pro Max",
      "status":"online",
      "password":"Penpro@704",
-"domain":"vipnetmart.xyz",
+"domain":"updatejson.xyz",
      "post_api": "/api/edit.php",
-     "get_api": "/api/master/app?json=22cb14d320fbd7b09842",
-"hash":"22cb14d320fbd7b09842"
+     "get_api": "/uploads/json/a193268e78176877dd98.json",
+"hash":"a193268e78176877dd98"
     }
   ],
 "ANWAR" : [
