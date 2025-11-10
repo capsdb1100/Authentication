@@ -749,13 +749,13 @@ content=",
 "Riman2" : [
     {
      "User":"Riman2",
-     "app_name":"RAHI VIP VPN",
+     "app_name":"HATIYA VIP VPN",
      "status":"online",
      "password":"Riman123456",
-"domain":"rahivipvpn.xyz",
+"domain":"rakibhosen.xyz",
      "post_api": "/v1/json/update",
-     "get_api": "/api/app?json=180ad53c23e749938343",
-"hash":"180ad53c23e749938343"
+     "get_api": "/api/app?json=90d543fe2bfd3674a567",
+"hash":"90d543fe2bfd3674a567"
     }
   ],
 "Riman" : [
