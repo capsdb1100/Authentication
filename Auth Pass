@@ -956,10 +956,10 @@ content=",
      "app_name":"DUBAI EXPRESS VPN",
      "status":"online",
      "password":"828152",
-"domain":"freedom24.xyz",
-     "post_api": "/api/edit.php",
-     "get_api": "/api/master/app?json=bab3e95fb28dc30d476b",
-"hash":"bab3e95fb28dc30d476b"
+"domain":"dubaiexpress.xyz",
+     "post_api": "/v1/json/update",
+     "get_api": "/api/app?json=7943807daa8ab870f315",
+"hash":"7943807daa8ab870f315"
     }
   ],
 "Ansuman" : [
