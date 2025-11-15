@@ -1070,6 +1070,18 @@ content=",
 "hash":"968b28fe7732718a7790"
     }
   ],
+"Alauddin" : [
+    {
+     "User":"Alauddin",
+     "app_name":"Wi-Fi fast VPN",
+     "status":"online",
+     "password":"Alauddin36",
+"domain":"sanjulovevpn.xyz",
+     "post_api": "/v1/json/update",
+     "get_api": "/api/app?json=3ce830e08a65b175a763",
+"hash":"3ce830e08a65b175a763"
+    }
+  ],
   "Manik" : [
     {
      "User":"Manik",
