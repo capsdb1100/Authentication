@@ -824,10 +824,10 @@ content=",
      "app_name":"RH Tunnel Plus",
      "status":"online",
      "password":"Riyad9362",
-"domain":"rhtunnelpro.xyz",
-     "post_api": "/api/edit.php",
-     "get_api": "/uploads/json/2be0e81d425034410d25.json",
-"hash":"2be0e81d425034410d25"
+"domain":"riyadhasan.xyz",
+     "post_api": "/v1/json/update",
+     "get_api": "/api/app?json=be41c68584f4e8c74c27",
+"hash":"be41c68584f4e8c74c27"
     }
   ],
 "Eleyas2624" : [
