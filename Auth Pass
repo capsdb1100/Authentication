@@ -292,10 +292,10 @@ content=",
      "app_name":"RH Tunnel Pro",
      "status":"online",
      "password":"Riyaj@1122",
-"domain":"rhtunnelpro.xyz",
-     "post_api": "/api/edit.php",
-     "get_api": "/uploads/json/fb34ad45c3fe591cfc6f.json",
-"hash":"fb34ad45c3fe591cfc6f"
+"domain":"riyadhasan.xyz",
+     "post_api": "/v1/json/update",
+     "get_api": "/api/app?json=5c1486b581f244cd813d",
+"hash":"5c1486b581f244cd813d"
     }
   ],
 "Bahar" : [
