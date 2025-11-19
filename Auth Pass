@@ -1042,8 +1042,8 @@ content=",
      "password":"Arif842",
 "domain":"arifvip.xyz",
      "post_api": "/api/edit.php",
-     "get_api": "/uploads/json/9a928edfd9c96996c63c.json",
-"hash":"9a928edfd9c96996c63c"
+     "get_api": "/api/files/app?json=c9e6eb7e90f45cc9fe3a",
+"hash":"c9e6eb7e90f45cc9fe3a"
     }
   ],
 "ABUSAYED25" : [
