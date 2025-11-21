@@ -417,10 +417,10 @@ content=",
      "app_name":"BOLD FAST VPN",
      "status":"online",
      "password":"020185",
-"domain":"freedom24.xyz",
-     "post_api": "/api/edit.php",
-     "get_api": "/api/master/app?json=46fca91be35c34b4de5b",
-"hash":"46fca91be35c34b4de5b"
+"domain":"dubaiexpress.xyz",
+     "post_api": "/v1/json/update",
+     "get_api": "/api/app?json=b4546ca2fb56786bd807",
+"hash":"b4546ca2fb56786bd807"
     }
   ],
 "Eleyas" : [
