@@ -512,10 +512,10 @@ content=",
      "app_name":"Tanzina V2Ray",
      "status":"online",
      "password":"Habibur",
-"domain":"tanzina.xyz",
-     "post_api": "/api/edit.php",
-     "get_api": "/api/master/app?json=565fb250f15a413d4f9e",
-"hash":"565fb250f15a413d4f9e"
+"domain":"ratunnel.xyz",
+     "post_api": "/v1/json/update",
+     "get_api": "/api/app?json=85d31bd43b54b7c4ae6e",
+"hash":"85d31bd43b54b7c4ae6e"
     }
   ],
 "Rasel" : [
