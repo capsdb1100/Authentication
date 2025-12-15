@@ -395,8 +395,8 @@ content=",
      "password":"Sk420",
 "domain":"sksuperpower.xyz",
      "post_api": "/v1/json/update",
-     "get_api": "/uploads/json/eb23ba4f680f73a6ecaa.json",
-"hash":"eb23ba4f680f73a6ecaa"
+     "get_api": "/api/app?json=e2597181682b01f71932",
+"hash":"e2597181682b01f71932"
     }
   ],
 "ADNAN" : [
