@@ -126,7 +126,7 @@
      "User":"devtest",
      "app_name":"RK TUNNEL",
      "status":"online",
-     "password":"devtest",
+     "password":"devtest1",
 "domain":"rktunnelvip.xyz",
      "post_api": "/api/edit.php",
      "get_api": "/uploads/json/4b76c57a6ff5a73f9d31.json",
