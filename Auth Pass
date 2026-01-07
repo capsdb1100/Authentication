@@ -124,7 +124,7 @@
   "devtest" : [
     {
      "User":"devtest",
-     "app_name":"RK TUNNEL",
+     "app_name":"Test App",
      "status":"online",
      "password":"devtest1",
 "domain":"rktunnelvip.xyz",
