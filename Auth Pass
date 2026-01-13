@@ -1076,10 +1076,10 @@ content=",
      "app_name":"Wi-Fi fast VPN",
      "status":"online",
      "password":"Alauddin36",
-"domain":"sanjulovevpn.xyz",
+"domain":"usmanfirstnet.xyz",
      "post_api": "/v1/json/update",
-     "get_api": "/api/app?json=3ce830e08a65b175a763",
-"hash":"3ce830e08a65b175a763"
+     "get_api": "/api/app?json=797cc4ef10c55e60fdb0",
+"hash":"797cc4ef10c55e60fdb0"
     }
   ],
 "RAKIB" : [
@@ -1121,7 +1121,7 @@ content=",
 "Alauddin31" : [
     {
      "User":"Alauddin31",
-     "app_name":"HD TUNNEL",
+     "app_name":"HD TUNNE",
      "status":"online",
      "password":"Alauddin42",
 "domain":"usmanfirstnet.xyz",
