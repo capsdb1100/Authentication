@@ -992,10 +992,10 @@ content=",
      "app_name":"Sakayet Tel V2",
      "status":"online",
      "password":"Sakayet247",
-"domain":"stelpro.xyz",
-     "post_api": "/api/edit.php",
-     "get_api": "/api/master/app?json=3d0f4ff5d9d666b734e2",
-"hash":"3d0f4ff5d9d666b734e2"
+"domain":"sakayettelvpn.xyz",
+     "post_api": "/v1/json/update",
+     "get_api": "/api/app?json=fb11987060c590f23ba1",
+"hash":"fb11987060c590f23ba1"
     }
   ],
 "Chand24" : [
