@@ -214,7 +214,7 @@ content=",
      "status":"online",
      "password":"Ansari06843",
      "domain":"zunayetvip.xyz",
-"post_api": "/api/master/update",
+"post_api": "/api/edit.php",
 "get_api": "/api/master/app?json=9049d0b676c07c9bc2b3",
      "hash":"9049d0b676c07c9bc2b3"
     }
