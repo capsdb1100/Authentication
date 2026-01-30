@@ -213,9 +213,10 @@ content=",
      "app_name":"NS VIP PRO",
      "status":"online",
      "password":"Ansari06843",
-     "domain":"sameervippro.xyz",
+     "domain":"zunayetvip.xyz",
 "post_api": "/api/master/update",
-     "hash":"ec5b4c23737cbd3e7f8e"
+"get_api": "/api/master/app?json=9049d0b676c07c9bc2b3",
+     "hash":"9049d0b676c07c9bc2b3"
     }
   ],
   "Aminbhai" : [
