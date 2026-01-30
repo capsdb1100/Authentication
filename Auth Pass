@@ -476,10 +476,10 @@ content=",
      "app_name":"RJ Tunnel Fast Net",
      "status":"online",
      "password":"roni@11664",
-"domain":"rhtunnelv2ray.xyz",
-     "post_api": "/api/edit.php",
-     "get_api": "/api/master/app?json=7cfec0dba86f4e70f24e",
-"hash":"7cfec0dba86f4e70f24e"
+"domain":"bbariacompany.xyz",
+     "post_api": "/v1/json/update",
+     "get_api": "/api/app?json=a2e27e99c64e682dc804",
+"hash":"a2e27e99c64e682dc804"
     }
   ],
 "Shakhawat" : [
