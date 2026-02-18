@@ -1149,10 +1149,10 @@ content=",
      "app_name":"RA TUNNEL PRO",
      "status":"online",
      "password":"Rajon547",
-"domain":"rajonvip.top",
+"domain":"rajonv2ray.xyz",
      "post_api": "/api/edit.php",
-     "get_api": "/uploads/json/5f2e87bbc5baa4da5069.json",
-"hash":"5f2e87bbc5baa4da5069"
+     "get_api": "/api/app?json=e722a7bf5f7aa89e6e7d",
+"hash":"e722a7bf5f7aa89e6e7d"
     }
   ],
   "Manik" : [
