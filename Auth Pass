@@ -1150,7 +1150,7 @@ content=",
      "status":"online",
      "password":"Rajon547",
 "domain":"rajonv2ray.xyz",
-     "post_api": "/api/edit.php",
+     "post_api": "/v1/json/update",
      "get_api": "/api/app?json=e722a7bf5f7aa89e6e7d",
 "hash":"e722a7bf5f7aa89e6e7d"
     }
