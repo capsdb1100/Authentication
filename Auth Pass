@@ -1155,6 +1155,18 @@ content=",
 "hash":"e722a7bf5f7aa89e6e7d"
     }
   ],
+"Chand36" : [
+    {
+     "User":"Chand36",
+     "app_name":"Cd Superhit Pro",
+     "status":"online",
+     "password":"Chand347",
+"domain":"cdsuperhit.xyz",
+     "post_api": "/v1/json/update",
+     "get_api": "/api/app?json=9fe14fe143cc4d429b5b",
+"hash":"9fe14fe143cc4d429b5b"
+    }
+  ],
   "Manik" : [
     {
      "User":"Manik",
