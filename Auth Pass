@@ -1179,6 +1179,18 @@ content=",
 "hash":"d027dacb35df89f0c0f6"
     }
   ],
+"Aziz36" : [
+    {
+     "User":"Aziz36",
+     "app_name":"Dhaka First Net",
+     "status":"online",
+     "password":"Aziz347",
+"domain":"dhakafastnet.xyz",
+     "post_api": "/v1/json/update",
+     "get_api": "/api/app?json=6cb82e6a8a4a98bafc96",
+"hash":"6cb82e6a8a4a98bafc96"
+    }
+  ],
   "Manik" : [
     {
      "User":"Manik",
