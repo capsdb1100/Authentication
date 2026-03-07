@@ -1191,6 +1191,18 @@ content=",
 "hash":"6cb82e6a8a4a98bafc96"
     }
   ],
+"skmonjur" : [
+    {
+     "User":"skmonjur",
+     "app_name":"SK MAX V2RAY",
+     "status":"online",
+     "password":"skmonjur47",
+"domain":"wasifaqueenv2rayvpn.site",
+     "post_api": "/api/edit.php",
+     "get_api": "/api/master/app?json=58f01b9e7018fa31f172",
+"hash":"58f01b9e7018fa31f172"
+    }
+  ],
   "Manik" : [
     {
      "User":"Manik",
