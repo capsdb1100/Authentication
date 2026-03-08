@@ -1197,10 +1197,10 @@ content=",
      "app_name":"SK MAX V2RAY",
      "status":"online",
      "password":"skmonjur47",
-"domain":"wasifaqueenv2rayvpn.site",
-     "post_api": "/api/edit.php",
-     "get_api": "/api/master/app?json=58f01b9e7018fa31f172",
-"hash":"58f01b9e7018fa31f172"
+"domain":"assamvip.xyz",
+     "post_api": "/v1/json/update",
+     "get_api": "/api/app?json=a30ed4cad5efc2c7a66f",
+"hash":"a30ed4cad5efc2c7a66f"
     }
   ],
   "Manik" : [
