@@ -1215,6 +1215,18 @@ content=",
 "hash":"69312866950ced3a79ca"
     }
   ],
+"Ashraf26" : [
+    {
+     "User":"Ashraf26",
+     "app_name":"Super Web V2Ray",
+     "status":"online",
+     "password":"Ashraf47",
+"domain":"zunayetvip.xyz",
+     "post_api": "/api/edit.php",
+     "get_api": "/api/master/app?json=23b8c4d83dcef37d57a2",
+"hash":"23b8c4d83dcef37d57a2"
+    }
+  ],
   "Manik" : [
     {
      "User":"Manik",
