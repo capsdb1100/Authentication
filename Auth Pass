@@ -669,10 +669,10 @@ content=",
      "app_name":"H SPECIAL VPN",
      "status":"online",
      "password":"Hasan2025",
-"domain":"hasan5gvip.xyz",
-     "post_api": "/v1/json/update",
-     "get_api": "/api/app?json=2fb013a9b24fc6d68729",
-"hash":"2fb013a9b24fc6d68729"
+"domain":"hasanpremium.xyz",
+     "post_api": "/api/edit.php",
+     "get_api": "/api/files/app?json=9392b29d0213fc4c0ad5",
+"hash":"9392b29d0213fc4c0ad5"
     }
   ],
 "Sakayet" : [
