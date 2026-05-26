@@ -885,10 +885,10 @@ content=",
      "app_name":"KAWSAR FAST NET VPN",
      "status":"online",
      "password":"Kawsar7322",
-"domain":"aavipnetvpn.xyz",
+"domain":"kawsarv2ray.xyz",
      "post_api": "/v1/json/update",
-     "get_api": "/api/app?json=27ef44dfe05d20089d1e",
-"hash":"27ef44dfe05d20089d1e"
+     "get_api": "/api/master/app?json=7e98fb15285755b3f3c0",
+"hash":"7e98fb15285755b3f3c0"
     }
   ],
 "Kausar0726" : [
