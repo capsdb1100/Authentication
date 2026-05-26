@@ -886,7 +886,7 @@ content=",
      "status":"online",
      "password":"Kawsar7322",
 "domain":"kawsarv2ray.xyz",
-     "post_api": "/v1/json/update",
+     "post_api": "/api/edit.php",
      "get_api": "/api/master/app?json=7e98fb15285755b3f3c0",
 "hash":"7e98fb15285755b3f3c0"
     }
