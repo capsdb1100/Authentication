@@ -1221,10 +1221,10 @@ content=",
      "app_name":"Super Web V2Ray",
      "status":"online",
      "password":"Ashraf47",
-"domain":"zunayetvip.xyz",
-     "post_api": "/api/edit.php",
-     "get_api": "/api/master/app?json=23b8c4d83dcef37d57a2",
-"hash":"23b8c4d83dcef37d57a2"
+"domain":"khokonvipnet.xyz",
+     "post_api": "/v1/json/update",
+     "get_api": "/api/app?json=dff3b784a81c78a1d0a5",
+"hash":"dff3b784a81c78a1d0a5"
     }
   ],
 "Ajij2026" : [
