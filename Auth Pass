@@ -813,10 +813,10 @@ content=",
      "app_name":"NAZMUL VIP",
      "status":"online",
      "password":"Nazmul265224",
-"domain":"nazmulvippro.xyz",
-     "post_api": "/v1/json/update",
-     "get_api": "/api/app?json=696bb92ac9cf87efd154",
-"hash":"696bb92ac9cf87efd154"
+"domain":"namzulvip.xyz",
+     "post_api": "/api/edit.php",
+     "get_api": "/api/files/app?json=11bf3adb8763891b9ab5",
+"hash":"11bf3adb8763891b9ab5"
     }
   ],
 "Riyad4763" : [
