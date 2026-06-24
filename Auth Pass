@@ -104,10 +104,11 @@
      "User":"Ekbal",
      "app_name":"ALORON VIP PLUS",
      "status":"online",
-     "password":"Admin@255646",
-     "domain":"ayannetvpn.xyz",
-"post_api": "/api/edit.php",
-     "hash":"8428544ed43ffa752d0d"
+     "password":"Admin@2556426",
+     "domain":"stvipvpn.xyz",
+"post_api": "/v1/json/update",
+"get_api": "/api/app?json=32412e9fa7daa881c992",
+     "hash":"32412e9fa7daa881c992"
     }
   ],
   "Sharif" : [
