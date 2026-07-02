@@ -815,8 +815,8 @@ content=",
      "status":"online",
      "password":"Nazmul265224",
 "domain":"namzulvip.xyz",
-     "post_api": "/api/edit.php",
-     "get_api": "/api/files/app?json=11bf3adb8763891b9ab5",
+     "post_api": "/v1/json/update",
+     "get_api": "/api/app?json=11bf3adb8763891b9ab5",
 "hash":"11bf3adb8763891b9ab5"
     }
   ],
