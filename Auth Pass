@@ -202,10 +202,10 @@ content=",
      "app_name":"Maysa Plus Fast",
      "status":"online",
      "password":"111788",
-     "domain":"superwab.xyz",
-"post_api": "/api/edit.php",
-     "get_api": "/api/files/app?json=961ead31ca7e1b778d10",
-     "hash":"961ead31ca7e1b778d10"
+     "domain":"khokonvipnet.xyz",
+"post_api": "/v1/json/update",
+     "get_api": "/api/app?json=3f73a5093678883e5f2d",
+     "hash":"3f73a5093678883e5f2d"
     }
   ],
   "Naushad" : [
