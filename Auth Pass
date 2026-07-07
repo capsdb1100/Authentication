@@ -1288,6 +1288,18 @@ content=",
 "hash":"a2d0c530954b18183275"
     }
   ],
+"Mizan" : [
+    {
+     "User":"Mizan",
+     "app_name":"Shapla king V2RAY",
+     "status":"online",
+     "password":"Mizan263",
+"domain":"mmexpress.xyz",
+     "post_api": "/v1/json/update",
+     "get_api": "/api/app?json=c5fc412605c3b82e76e3",
+"hash":"c5fc412605c3b82e76e3"
+    }
+  ],
   "Manik" : [
     {
      "User":"Manik",
