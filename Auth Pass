@@ -1300,6 +1300,18 @@ content=",
 "hash":"c5fc412605c3b82e76e3"
     }
   ],
+"Sakayet1492" : [
+    {
+     "User":"Sakayet1492",
+     "app_name":"Shapla king V2RAY",
+     "status":"online",
+     "password":"Sakayet49263",
+"domain":"sakayettel.xyz",
+     "post_api": "/v1/json/update",
+     "get_api": "/api/app?json=36d0f90caa220825ce91",
+"hash":"36d0f90caa220825ce91"
+    }
+  ],
   "Manik" : [
     {
      "User":"Manik",
