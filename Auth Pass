@@ -1348,12 +1348,12 @@ content=",
 "hash":"230b5ee88b1898f56105"
     }
   ],
-"demo" : [
+"Kiberu" : [
     {
-     "User":"demo",
+     "User":"Kiberu",
      "app_name":"Exotic Fast VIP",
      "status":"online",
-     "password":"demo2",
+     "password":"Kiberu2026",
 "domain":"exoticfastvip.xyz",
      "post_api": "/v1/json/update",
      "get_api": "/api/app?json=21dbd51eae6e8e810f71",
