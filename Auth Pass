@@ -1379,7 +1379,7 @@ content=",
      "status":"online",
      "password":"RS35226",
 "domain":"samiya-pro.top",
-     "post_api": "/v1/json/update",
+     "post_api": "/api/edit.php",
      "get_api": "/api/files/app?json=041dc5f47082dabf4fee",
 "hash":"041dc5f47082dabf4fee"
     }
