@@ -1372,6 +1372,18 @@ content=",
 "hash":"34b487ecc24bb840b73a"
     }
   ],
+"RS352" : [
+    {
+     "User":"RS352",
+     "app_name":"RS RAICHA VIP",
+     "status":"online",
+     "password":"RS35226",
+"domain":"samiya-pro.top",
+     "post_api": "/v1/json/update",
+     "get_api": "/api/files/app?json=041dc5f47082dabf4fee",
+"hash":"041dc5f47082dabf4fee"
+    }
+  ],
   "Manik" : [
     {
      "User":"Manik",
