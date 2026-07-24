@@ -2,12 +2,13 @@
      "Rubel" : [
     {
      "User":"Rubel",
-     "app_name":"RK TUNNEL",
+     "app_name":"Lords Connect Vpn",
      "status":"online",
      "password":"devtest",
-     "domain":"sajibtunnelvipofficial.xyz",
+"domain":"namzulvip.xyz",
      "post_api": "/v1/json/update",
-"hash":"b20cfc95f2ae49768cbc"
+     "get_api": "/api/app?json=19f2996a8180e8dfa5cf",
+"hash":"19f2996a8180e8dfa5cf"
     }
   ],
 "Sajib" : [
