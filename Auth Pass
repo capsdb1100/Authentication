@@ -129,11 +129,11 @@
      "app_name":"Test App",
      "status":"online",
      "password":"123456",
-"upload_type": "github",
+"upload_type":"github",
     "cloud_upload_visible": true,
 "domain":"jomarakibul",
-     "post_api": "raganall",
-     "get_api": "rk.json",
+     "post_api":"raganall",
+     "get_api":"rk.json",
 "hash":"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"
     }
   ],
