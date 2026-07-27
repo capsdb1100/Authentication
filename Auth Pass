@@ -132,9 +132,10 @@
 "upload_type":"github",
     "cloud_upload_visible": true,
 "domain":"jomarakibul",
+"message": "আপনার অ্যাপের নতুন আপডেট এসেছে",
      "post_api":"raganall",
      "get_api":"rk.json",
-"hash":"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"
+"hash":""
     }
   ],
 "Ruhul" : [
