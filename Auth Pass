@@ -1335,7 +1335,7 @@ content=",
      "status":"online",
      "password":"Sayek9263",
 "domain":"pakhinet.com",
-     "post_api": "/v1/json/update",
+     "post_api": "/api/edit.php",
      "get_api": "/uploads/json/6816248f96fa004a4651.json",
 "hash":"6816248f96fa004a4651"
     }
