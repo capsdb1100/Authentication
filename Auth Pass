@@ -1334,10 +1334,10 @@ content=",
      "app_name":"PAKHI VIP NET",
      "status":"online",
      "password":"Sayek9263",
-"domain":"pakhinet.com",
-     "post_api": "/api/edit.php",
-     "get_api": "/uploads/json/6816248f96fa004a4651.json",
-"hash":"6816248f96fa004a4651"
+"domain":"pakhivipnet.xyz",
+     "post_api": "/v1/json/update",
+     "get_api": "/api/app?json=c43951b8521830d2c5e8",
+"hash":"c43951b8521830d2c5e8"
     }
   ],
 "Nayem" : [
